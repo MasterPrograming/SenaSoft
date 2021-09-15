@@ -1,0 +1,5 @@
+# Archivos a ignorar
+
+.vs
+.DS_STORE
+license.txt
